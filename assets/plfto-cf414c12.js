@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper-c27b6911.js";import{o as e,a,t as n}from"./index-4ca133f6.js";const _={name:"plfto"};function s(t,p,c,r,l,f){return e(),a("h1",null,n(t.$t("plfto.content")),1)}const m=o(_,[["render",s],["__scopeId","data-v-22db54a7"]]);export{m as default};
